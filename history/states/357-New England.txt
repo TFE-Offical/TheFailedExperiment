@@ -1,0 +1,11 @@
+state = {
+	id = 357
+	name = "STATE_357"
+	manpower = 357412
+	state_category = large_town
+	history = {
+		owner = NEG
+		add_core_of = NEG
+	}
+	provinces = { 13416 11830 }
+}

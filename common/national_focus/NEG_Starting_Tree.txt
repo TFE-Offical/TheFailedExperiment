@@ -1,0 +1,20 @@
+focus_tree = {
+	id = NEG_Starting_Tree
+	country = {
+		factor = 0
+		modifier = {
+			add = 10
+			tag = NEG
+		}
+	}
+	default = no
+	reset_on_civilwar = no
+	focus = {
+		id = NEG_80_years_of_National_Progressivism
+		icon = GFX_goal_unknown
+		x = 0
+		y = -4
+		cost = 1
+		completion_reward = {}
+	}
+}

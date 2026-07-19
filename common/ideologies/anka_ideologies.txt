@@ -1,0 +1,236 @@
+ideologies = {
+	National_Socialism = {
+		color = { 128 64 64 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		types = {
+			LaRouchite_Tendency = {
+				can_be_randomly_selected = no
+			}
+		}
+		ai_neutral = yes
+	}
+	Communism = {
+		color = { 128 0 0 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+	Socialism = {
+		color = { 255 0 0 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+	Progressivism = {
+		color = { 255 0 255 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+	Centrism = {
+		color = { 128 255 255 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+	Liberalism = {
+		color = { 255 255 0 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+	Conservatism = {
+		color = { 0 0 255 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+	Paternalism = {
+		color = { 159 159 159 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = yes
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+	Despotism = {
+		color = { 88 88 88 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+	Sorelianism = {
+		color = { 221 72 0 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+	National_Progressivism = {
+		color = { 0 64 0 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+		types = {
+			Lovecraftism_Peirceism = {
+				can_be_randomly_selected = no
+			}
+		}
+	}
+	Ultranatioanalism = {
+		color = { 0 0 0 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+	Annhilationism = {
+		color = { 128 255 0 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = no
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = yes
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+	Unclassifable = {
+		color = { 255 255 255 }
+		rules = {
+			can_force_government = no
+			can_send_volunteers = no
+			can_puppet = no
+			can_create_collaboration_government = no
+			can_declare_war_on_same_ideology = yes
+			can_lower_tension = no
+			can_only_justify_war_on_threat_country = no
+			can_guarantee_other_ideologies = no
+		}
+		war_impact_on_world_tension = 0.5
+		faction_impact_on_world_tension = 0.5
+		ai_neutral = yes
+	}
+}

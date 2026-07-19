@@ -1,0 +1,10 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_portrait_WLP_NEG"
+		texturefile = "gfx/leaders/WLP/portrait_WLP_NEG.dds"
+	}
+	SpriteType = {
+		name = "GFX_portrait_William_Peirce"
+		texturefile = "gfx/leaders/NEG/portrait_William_Peirce.dds"
+	}
+}

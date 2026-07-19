@@ -1,0 +1,151 @@
+guiTypes = {
+	containerWindowType = {
+		name = "anka_window_1"
+		position = {
+			x = 0
+			y = 0
+		}
+		size = {
+			width = 400
+			height = 300
+		}
+		browserType = {
+			name = "anka_browser_1"
+			position = {
+				x = 10
+				y = 10
+			}
+			size = {
+				width = 300
+				height = 200
+			}
+		}
+	}
+	containerWindowType = {
+		name = "anka_window_2"
+		position = {
+			x = 0
+			y = 0
+		}
+		size = {
+			width = 400
+			height = 300
+		}
+		buttonType = {
+			name = "anka_button_1"
+			position = {
+				x = 12
+				y = 15
+			}
+			quadTextureSprite = "GFX_closebutton"
+			size = {
+				x = 50
+				y = 45
+			}
+			spriteType = "GFX_closebutton"
+		}
+	}
+	containerWindowType = {
+		name = "anka_window_3"
+		position = {
+			x = 0
+			y = 0
+		}
+		size = {
+			width = 400
+			height = 300
+		}
+		checkBoxType = {
+			name = "anka_checkbox_1"
+			position = {
+				x = 10
+				y = 10
+			}
+			quadTextureSprite = "GFX_checkbox"
+			size = {
+				x = 35
+				y = 36
+			}
+		}
+	}
+	containerWindowType = {
+		name = "anka_window_4"
+		position = {
+			x = 0
+			y = 0
+		}
+		size = {
+			width = 400
+			height = 300
+		}
+		dropDownBoxType = {
+			name = "anka_dropdownbox_1"
+			position = {
+				x = 10
+				y = 10
+			}
+		}
+	}
+	containerWindowType = {
+		name = "anka_window_5"
+		position = {
+			x = 0
+			y = 0
+		}
+		size = {
+			width = 400
+			height = 300
+		}
+		editBoxType = {
+			name = "anka_editbox_1"
+			position = {
+				x = 10
+				y = 10
+			}
+			size = {
+				width = 140
+				height = 24
+			}
+		}
+	}
+	containerWindowType = {
+		name = "anka_window_6"
+		position = {
+			x = 0
+			y = 0
+		}
+		size = {
+			width = 400
+			height = 300
+		}
+		extendedScrollbarType = {
+			name = "anka_extendedscrollbar_1"
+			position = {
+				x = 10
+				y = 10
+			}
+		}
+	}
+	containerWindowType = {
+		name = "anka_window_7"
+		position = {
+			x = 0
+			y = 0
+		}
+		size = {
+			width = 400
+			height = 300
+		}
+		editBoxType = {
+			name = "anka_editbox_1"
+			position = {
+				x = 10
+				y = 10
+			}
+			size = {
+				width = 140
+				height = 24
+			}
+		}
+	}
+}

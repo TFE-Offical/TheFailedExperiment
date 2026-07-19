@@ -1,0 +1,16 @@
+set_research_slots = 5
+set_stability = 0.6
+set_war_support = 0.9
+set_politics = {
+	ruling_party = National_Progressivism
+	last_election = "1936.1.1"
+	election_frequency = 48
+	elections_allowed = no
+}
+set_popularities = {
+	National_Socialism = 15
+	Sorelianism = 8
+	National_Progressivism = 67
+	Ultranatioanalism = 10
+}
+recruit_character = William_Peirce

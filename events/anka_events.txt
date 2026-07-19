@@ -1,0 +1,15 @@
+add_namespace = NEG_80_Years_of_National_Progressivism
+country_event = {
+	id = NEG_80_Years_of_National_Progressivism.1
+	title = NEG_80_Years_of_National_Progressivism.1.t
+	desc = NEG_80_Years_of_National_Progressivism.1.d
+	picture = GFX_report_event_generic_sign_treaty
+	is_triggered_only = yes
+	option = {
+		name = NEG_80_Years_of_National_Progressivism.1.a
+	}
+	fire_only_once = yes
+	trigger = {
+		has_completed_focus = NEG_80_years_of_National_Progressivism
+	}
+}

@@ -1,0 +1,16 @@
+state = {
+	id = 1083
+	name = "New London"
+	manpower = 523984
+	state_category = city
+	history = {
+		buildings = {
+			industrial_complex = 7
+			arms_factory = 4
+			dockyard = 2
+			infrastructure = 5
+		}
+		owner = NEG
+	}
+	provinces = { 9832 }
+}

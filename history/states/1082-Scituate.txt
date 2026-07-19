@@ -1,0 +1,11 @@
+state = {
+	id = 1082
+	name = "Scituate"
+	manpower = 256480
+	state_category = city
+	history = {
+		owner = NEG
+		add_core_of = NEG
+	}
+	provinces = { 13417 }
+}

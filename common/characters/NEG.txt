@@ -1,0 +1,30 @@
+William_Peirce = {
+	name = William_Peirce
+	portraits = {
+		civilian = {
+			large = GFX_portrait_William_Peirce
+		}
+	}
+	country_leader = {
+		ideology = Lovecraftism_Peirceism
+		expire = "1965.1.1.1"
+		traits = {}
+		id = -1
+	}
+}
+characters = {
+	William_Peirce = {
+		name = William_Peirce
+		country_leader = {
+			ideology = Lovecraftism_Peirceism
+			expire = "1965.1.1.1"
+			traits = { NEG_Lord_Protector }
+			id = -1
+		}
+		portraits = {
+			civilian = {
+				large = GFX_portrait_William_Peirce
+			}
+		}
+	}
+}

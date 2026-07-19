@@ -1,0 +1,16 @@
+bookmarks = {
+	bookmark = {
+		name = "THE_FAILED_EXPERIMENT_BOOKMARK"
+		desc = "THE_FAILED_EXPERIMENT_BOOKMARK_DESC"
+		date = 2000.1.1
+		picture = "GFX_select_date_1936"
+		default = yes
+		default_country = "NEG"
+
+		"NEG" = {
+			history = "NEG_the_failed_experiment_DESC"
+			ideology = neutrality
+			ideas = { }
+		}
+	}
+}

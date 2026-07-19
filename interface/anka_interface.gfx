@@ -1,0 +1,11 @@
+spriteTypes = {
+	SpriteType = {
+		name = "GFX_closebutton"
+		texturefile = "gfx/interface/closebutton.dds"
+		loadType = INGAME
+	}
+	SpriteType = {
+		name = "GFX_checkbox"
+		texturefile = "gfx/interface/checkbox.dds"
+	}
+}
